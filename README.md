@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ben Lordlex 👋</h1>
 
-<!--
-**BenLordlex/BenLordlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello, I'm Ben Lordlex. I develop Minecraft plugins and I'm the leader of [KteProject](https://github.com/KteProject). I'm learning full-stack web development
 
-Here are some ideas to get you started:
+## My Skills
+🟩 I Develop Minecraft Plugins<br>
+🟩 I'm Learning Full-Stack Web Development.<br>
+🟩 I'm Leader Of [KteProject](https://github.com/KteProject)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Medias 
+👉 [Kick](https://kick.com/BenLordlex)<br>
+👉 [Instagram](https://instagram.com/BenLordlex)<br>
+👉 [Discord](https://discord.gg/fw2KJvGse2)<br>
+👉 [X](https://x.com/BenLordlex)<br>
+
