@@ -9,9 +9,9 @@ Hello, I'm Ben Lordlex. I develop Minecraft plugins and I'm the leader of [KtePr
 🟩 I'm Leader Of [KteProject](https://github.com/KteProject)<br>
 
 ## Social Medias 
-👉 [Kick](https://kick.com/BenLordlex)<br>
-👉 [Instagram](https://instagram.com/BenLordlex)<br>
 👉 [Discord](https://discord.gg/fw2KJvGse2)<br>
+👉 [Instagram](https://instagram.com/BenLordlex)<br>
+👉 [Kick](https://kick.com/BenLordlex)<br>
 👉 [X](https://x.com/BenLordlex)<br>
 👉 [YouTube](https://youtube.com/@BenLordlex)<br>
 
