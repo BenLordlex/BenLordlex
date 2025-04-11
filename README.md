@@ -13,4 +13,5 @@ Hello, I'm Ben Lordlex. I develop Minecraft plugins and I'm the leader of [KtePr
 👉 [Instagram](https://instagram.com/BenLordlex)<br>
 👉 [Discord](https://discord.gg/fw2KJvGse2)<br>
 👉 [X](https://x.com/BenLordlex)<br>
+👉 [YouTube](https://youtube.com/@BenLordlex)<br>
 
