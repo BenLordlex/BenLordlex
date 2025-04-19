@@ -1,17 +1,10 @@
-<h1 align="center">Hi, I'm Ben Lordlex 👋</h1>
+<div align=center>
 
-## About Me
-Hello, I'm Ben Lordlex. I develop Minecraft plugins and I'm the leader of [KteProject](https://github.com/KteProject). I'm learning full-stack web development
+[![GitHub WidgetBox](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20%I'm%20Ben%20Lordlex&section=header&textBg=false&animation=fadeIn)](https://github.com/BenLordlex)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BenLordlex&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/BenLordlex)
 
 ## My Skills
-🟩 I Develop Minecraft Plugins<br>
-🟩 I'm Learning Full-Stack Web Development.<br>
-🟩 I'm Leader Of [KteProject](https://github.com/KteProject)<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,react,yaml&theme=darkmode)](https://github.com/BenLordlex)
 
-## Social Medias 
-👉 [Discord](https://discord.gg/fw2KJvGse2)<br>
-👉 [Instagram](https://instagram.com/BenLordlex)<br>
-👉 [Kick](https://kick.com/BenLordlex)<br>
-👉 [X](https://x.com/BenLordlex)<br>
-👉 [YouTube](https://youtube.com/@BenLordlex)<br>
-
+</div>
